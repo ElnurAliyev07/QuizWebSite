@@ -4,3 +4,4 @@ On this site, users can test their knowledge of programming languages. First, th
 ![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/44437bc8-2dc6-40a2-92b1-038e143de098)
 the registered user will face the window of our quiz site
 ![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/dd22825d-2327-468f-85fa-859f413d66c1)
+When the user clicks the start button, he can test his knowledge according to the programming languages that appear on the screen
