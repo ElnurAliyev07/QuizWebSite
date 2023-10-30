@@ -8,3 +8,4 @@ When the user clicks the start button, he can test his knowledge according to th
 ![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/ab977140-ec2d-42bd-90b4-027cfe15ca9a)
 Let's answer html questions for example
 ![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/04c1390a-cf88-4880-bcae-f5e99d9523fa)
+![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/a0722bf3-3746-4dde-a2ba-a73006f2b653)
