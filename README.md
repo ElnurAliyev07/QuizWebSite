@@ -10,3 +10,4 @@ Let's answer html questions for example
 ![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/04c1390a-cf88-4880-bcae-f5e99d9523fa)
 ![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/a0722bf3-3746-4dde-a2ba-a73006f2b653)
 And here is the result. Finally, the user can repeat the test again or return to the home page
+![image](https://github.com/ElnurAliyev07/QuizWebSite/assets/115114253/cd49a40f-53a2-491d-9d65-8494af2856bb)
